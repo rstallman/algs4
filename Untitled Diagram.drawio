@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T12:12:59.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7nbOghPGv0WpT85yFvxf" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T01:33:07.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="arWuodhSbRu6Oi3jvTqE" version="20.3.0" type="github">
   <diagram id="OnoTy_1-grJOmto1xHjD" name="Page-1">
-    <mxGraphModel dx="898" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
         <mxCell id="NgRLTbmCw4-f7tLhL36x-12" value="Ticket" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NgRLTbmCw4-f7tLhL36x-13" value="TicketNumber (string)&#xa;Price (float)&#xa;FlightClass &#xa;ConfirmationNumber (string)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="NgRLTbmCw4-f7tLhL36x-12">
+        <mxCell id="NgRLTbmCw4-f7tLhL36x-13" value="TicketNumber (string)&#xa;Price (float)&#xa;ConfirmationNumber (string)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="NgRLTbmCw4-f7tLhL36x-12">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NgRLTbmCw4-f7tLhL36x-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERone;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startFill=0;" edge="1" parent="1" source="NgRLTbmCw4-f7tLhL36x-2" target="NgRLTbmCw4-f7tLhL36x-13">
