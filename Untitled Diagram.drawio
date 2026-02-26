@@ -161,6 +161,24 @@
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="性能评估与对比&lt;div&gt;精度指标(ATE/RPE)&lt;/div&gt;&lt;div&gt;鲁棒性指标(失效率)&lt;/div&gt;&lt;div&gt;实时性指标(处理时间)&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="510" y="955" as="geometry" />
         </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-66" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.481;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-67" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.139;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-68" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.768;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-69" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.137;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-70" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.477;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-71" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.766;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
