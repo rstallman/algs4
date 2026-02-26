@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="煤矿井下环境特性分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="340" x="255" y="30" as="geometry" />
+          <mxGeometry height="80" width="340" x="255" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-15" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-15" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.204;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="294.999979654948" y="160.83333841959643" as="targetPoint" />
           </mxGeometry>
@@ -28,16 +28,16 @@
           <mxGeometry height="40" width="60" x="525" y="60" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="传感器退化机理分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="470" x="200" y="160" as="geometry" />
+          <mxGeometry height="110" width="470" x="200" y="130" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="激光退化机理&lt;div&gt;特征分布均匀性&lt;/div&gt;&lt;div&gt;配准内点率&lt;/div&gt;&lt;div&gt;几何退化指标&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="90" x="220" y="190" as="geometry" />
+          <mxGeometry height="70" width="90" x="235" y="150" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="视觉退化机理&lt;div&gt;光照影响规律&lt;/div&gt;&lt;div&gt;特征提取质量&lt;/div&gt;&lt;div&gt;跟踪稳定性&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="90" x="355" y="190" as="geometry" />
+          <mxGeometry height="70" width="90" x="380" y="155" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多源信息一致性分析&lt;div&gt;IMU零偏稳定性评估&amp;nbsp;&lt;/div&gt;&lt;div&gt;传感器间一致性检验&amp;nbsp;&lt;/div&gt;&lt;div&gt;故障检测与隔离&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="120" x="490" y="190" as="geometry" />
+          <mxGeometry height="70" width="120" x="520" y="155" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-16" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.395;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-10">
           <mxGeometry relative="1" as="geometry" />
@@ -47,8 +47,119 @@
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-18" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="160" as="targetPoint" />
+            <mxPoint x="555" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="多源传感器退化状态在线感知&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="470" x="200" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-36" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.3333333333335" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="激光退化评估&lt;div&gt;几何退化指数&lt;/div&gt;&lt;div&gt;特征丰富度&lt;/div&gt;&lt;div&gt;实时内点率&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="220" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-37" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.3333333333335" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="视觉置信度评估&lt;div&gt;图像质量评分&lt;/div&gt;&lt;div&gt;特征点分布&lt;/div&gt;&lt;div&gt;匹配成功率&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="380" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-38" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.3333333333335" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IMU状态监测&lt;div&gt;零偏稳定性&amp;nbsp;&lt;/div&gt;&lt;div&gt;随机游走&lt;/div&gt;&lt;div&gt;运动激励度&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="510" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-24" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-25" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.479;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-26" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.823;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;基于退化感知的自适应紧耦合融合&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="200" width="470" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-49" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ZixA5eg9KNnaIoxL7yeK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IMU预积分残差" vertex="1">
+          <mxGeometry height="45" width="70" x="230" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-48" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZixA5eg9KNnaIoxL7yeK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="激光点云线面特征残差" vertex="1">
+          <mxGeometry height="45" width="70" x="340" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="视觉特征重投影残差" vertex="1">
+          <mxGeometry height="45" width="70" x="440" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-46" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZixA5eg9KNnaIoxL7yeK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="退化感知置信度权重" vertex="1">
+          <mxGeometry height="45" width="70" x="545" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="加权最小二乘优化" vertex="1">
+          <mxGeometry height="30" width="140" x="355" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-57" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZixA5eg9KNnaIoxL7yeK-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="滑动窗口管理与边缘化" vertex="1">
+          <mxGeometry height="30" width="280" x="295" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-47" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.596;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-50" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.465;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="极端场景系统重构与鲁棒性保持&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="470" x="200" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="退化检测触发&amp;nbsp;&lt;div&gt;单子系统失效&lt;/div&gt;&lt;div&gt;多系统退化&lt;/div&gt;&lt;div&gt;环境突变&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="220" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多模式切换&lt;div&gt;正常模式&lt;/div&gt;&lt;div&gt;退化模式&amp;nbsp;&lt;/div&gt;&lt;div&gt;恢复模式&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="380" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="历史信息利用&lt;div&gt;滑动窗口历史约束&lt;/div&gt;&lt;div&gt;先验地图匹配&lt;/div&gt;&lt;div&gt;重定位触发&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="510" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="极端场景系统重构与鲁棒性保持&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="470" x="200" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="退化检测触发&amp;nbsp;&lt;div&gt;单子系统失效&lt;/div&gt;&lt;div&gt;多系统退化&lt;/div&gt;&lt;div&gt;环境突变&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="220" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多模式切换&lt;div&gt;正常模式&lt;/div&gt;&lt;div&gt;退化模式&amp;nbsp;&lt;/div&gt;&lt;div&gt;恢复模式&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="380" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="历史信息利用&lt;div&gt;滑动窗口历史约束&lt;/div&gt;&lt;div&gt;先验地图匹配&lt;/div&gt;&lt;div&gt;重定位触发&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="510" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="极端场景系统重构与鲁棒性保持&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="470" x="200" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="退化检测触发&amp;nbsp;&lt;div&gt;单子系统失效&lt;/div&gt;&lt;div&gt;多系统退化&lt;/div&gt;&lt;div&gt;环境突变&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="220" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多模式切换&lt;div&gt;正常模式&lt;/div&gt;&lt;div&gt;退化模式&amp;nbsp;&lt;/div&gt;&lt;div&gt;恢复模式&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="380" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="历史信息利用&lt;div&gt;滑动窗口历史约束&lt;/div&gt;&lt;div&gt;先验地图匹配&lt;/div&gt;&lt;div&gt;重定位触发&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="510" y="955" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
