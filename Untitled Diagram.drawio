@@ -137,29 +137,29 @@
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="历史信息利用&lt;div&gt;滑动窗口历史约束&lt;/div&gt;&lt;div&gt;先验地图匹配&lt;/div&gt;&lt;div&gt;重定位触发&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" x="510" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="极端场景系统重构与鲁棒性保持&amp;nbsp;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="动态环境适应与地图维护" vertex="1">
           <mxGeometry height="110" width="470" x="200" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="退化检测触发&amp;nbsp;&lt;div&gt;单子系统失效&lt;/div&gt;&lt;div&gt;多系统退化&lt;/div&gt;&lt;div&gt;环境突变&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动态物体检测&amp;nbsp;&lt;div&gt;点云聚类&lt;/div&gt;&lt;div&gt;目标检测&lt;/div&gt;&lt;div&gt;运动一致性&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="220" y="805" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多模式切换&lt;div&gt;正常模式&lt;/div&gt;&lt;div&gt;退化模式&amp;nbsp;&lt;/div&gt;&lt;div&gt;恢复模式&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动态特征剔除&amp;nbsp;&lt;div&gt;优化过程过滤&lt;/div&gt;&lt;div&gt;建图过程排除&lt;/div&gt;&lt;div&gt;动态目标建模&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="380" y="805" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="历史信息利用&lt;div&gt;滑动窗口历史约束&lt;/div&gt;&lt;div&gt;先验地图匹配&lt;/div&gt;&lt;div&gt;重定位触发&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="长期地图更新&lt;div&gt;变化检测&amp;nbsp;&lt;/div&gt;&lt;div&gt;增量式更新&lt;/div&gt;&lt;div&gt;地图压缩&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" x="510" y="805" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="极端场景系统重构与鲁棒性保持&amp;nbsp;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="系统实验验证&amp;nbsp;" vertex="1">
           <mxGeometry height="110" width="470" x="200" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="退化检测触发&amp;nbsp;&lt;div&gt;单子系统失效&lt;/div&gt;&lt;div&gt;多系统退化&lt;/div&gt;&lt;div&gt;环境突变&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="模拟巷道实验&lt;div&gt;可控环境测试&lt;/div&gt;&lt;div&gt;退化场景模拟&lt;/div&gt;&lt;div&gt;模块消融实验&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="220" y="955" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多模式切换&lt;div&gt;正常模式&lt;/div&gt;&lt;div&gt;退化模式&amp;nbsp;&lt;/div&gt;&lt;div&gt;恢复模式&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="现场矿井实验&lt;div&gt;真实工况验证&lt;/div&gt;&lt;div&gt;长期运行测试&lt;/div&gt;&lt;div&gt;多工况覆盖&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="380" y="955" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="历史信息利用&lt;div&gt;滑动窗口历史约束&lt;/div&gt;&lt;div&gt;先验地图匹配&lt;/div&gt;&lt;div&gt;重定位触发&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="100" x="510" y="955" as="geometry" />
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="性能评估与对比&lt;div&gt;精度指标(ATE/RPE)&lt;/div&gt;&lt;div&gt;鲁棒性指标(失效率)&lt;/div&gt;&lt;div&gt;实时性指标(处理时间)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="510" y="955" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
