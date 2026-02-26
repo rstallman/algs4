@@ -7,6 +7,11 @@
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="煤矿井下环境特性分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="340" x="255" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-15" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294.999979654948" y="160.83333841959643" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="几何重复巷道结构" vertex="1">
           <mxGeometry height="40" width="60" x="265" y="60" as="geometry" />
         </mxCell>
@@ -21,6 +26,29 @@
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="粉尘干扰&lt;div&gt;水雾影响&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="525" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="传感器退化机理分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="470" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="激光退化机理&lt;div&gt;特征分布均匀性&lt;/div&gt;&lt;div&gt;配准内点率&lt;/div&gt;&lt;div&gt;几何退化指标&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="220" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="视觉退化机理&lt;div&gt;光照影响规律&lt;/div&gt;&lt;div&gt;特征提取质量&lt;/div&gt;&lt;div&gt;跟踪稳定性&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="90" x="355" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多源信息一致性分析&lt;div&gt;IMU零偏稳定性评估&amp;nbsp;&lt;/div&gt;&lt;div&gt;传感器间一致性检验&amp;nbsp;&lt;/div&gt;&lt;div&gt;故障检测与隔离&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="490" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-16" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.395;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-17" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-18" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
