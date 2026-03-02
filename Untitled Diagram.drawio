@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.5">
   <diagram name="Page-1" id="5HRHP3CG41jwbULBndfr">
-    <mxGraphModel dx="768" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="614" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="煤矿井下环境特性分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-1" parent="1" style="rounded=15;whiteSpace=wrap;html=1;verticalAlign=top;" value="煤矿井下环境特性分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="340" x="255" y="30" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-15" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.204;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZixA5eg9KNnaIoxL7yeK-10">
@@ -24,7 +24,7 @@
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="粉尘干扰&lt;div&gt;水雾影响&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="445" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZixA5eg9KNnaIoxL7yeK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="粉尘干扰&lt;div&gt;水雾影响&lt;/div&gt;" vertex="1">
+        <mxCell id="ZixA5eg9KNnaIoxL7yeK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动态物体&amp;nbsp;&lt;div&gt;人员设备&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="525" y="60" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="传感器退化机理分析&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
