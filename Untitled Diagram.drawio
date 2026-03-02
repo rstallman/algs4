@@ -13,19 +13,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="几何重复巷道结构" vertex="1">
-          <mxGeometry height="40" width="60" x="265" y="60" as="geometry" />
+          <mxGeometry height="40" width="60" x="265" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-4" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ZixA5eg9KNnaIoxL7yeK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="光照多变&lt;div&gt;无光区域&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="60" x="355" y="60" as="geometry" />
+          <mxGeometry height="40" width="60" x="355" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="粉尘干扰&lt;div&gt;水雾影响&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="60" x="445" y="60" as="geometry" />
+          <mxGeometry height="40" width="60" x="445" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动态物体&amp;nbsp;&lt;div&gt;人员设备&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="60" x="525" y="60" as="geometry" />
+          <mxGeometry height="40" width="60" x="525" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;传感器退化机理分析&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="470" x="200" y="120" as="geometry" />
@@ -47,7 +47,7 @@
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-18" edge="1" parent="1" source="ZixA5eg9KNnaIoxL7yeK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="130" as="targetPoint" />
+            <mxPoint x="555" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZixA5eg9KNnaIoxL7yeK-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;多源传感器退化状态在线感知&amp;nbsp;&lt;/font&gt;" vertex="1">
